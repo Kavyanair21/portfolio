@@ -26,7 +26,7 @@ The website serves as an online professional profile and demonstrates fundamenta
 ```
 portfolio/
 │
-├── text.html
+├── index.html
 ├── style.css
 ├── download.jpg
 ├── imge7.avif
